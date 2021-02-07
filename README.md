@@ -1,3 +1,3 @@
 # -Portfolio
 
-you can directly visit my website on - https://deepakverma18.github.io/-Portfolio/
+you can directly visit my portfolio on - https://deepakverma18.github.io/-Portfolio/
